@@ -14,4 +14,3 @@ Built with
 •	Mobile-first workflow
 •	Vanilla Javascript
 •	Google Chrome APIs
-![image](https://user-images.githubusercontent.com/50274258/183990274-3b5f0f7a-2a29-4f0b-b942-97bd169aadf1.png)
